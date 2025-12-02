@@ -24,6 +24,8 @@ Saya memiliki ketertarikan mendalam pada pengembangan perangkat lunak yang tidak
 <img src="https://img.shields.io/badge/Visual%20Basic-.NET-purple?style=for-the-badge&logo=dotnet" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Basic-.NET-purple?style=for-the-badge&logo=dotnet" />
 
 **Design & Prototyping**
 <br>
